@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Who made the Linux kernel?",
+        "options": [
+            "A) Linus Torvalds",
+            "B) Richard Stallman",
+            "C) Bill Gates",
+            "D) Steve Jobs"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "why kail linux is famous for?",
+        "options": [
+            "A) AI/ML",
+            "B) Hacking",
+            "C) Gaming",
+            "D) Servers"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "which os is mostly use in servers?",
+        "options": [
+            "A) Unix",
+            "B) Windows",
+            "C) Mac os",
+            "D) Linux"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "when is C created?",
+        "options": [
+            "A) 1850",
+            "B) 1972",
+            "C) 2000",
+            "D) Non of these"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "when computers created?",
+        "options":[
+            "A) 1939",
+            "B) 1956",
+            "C) 1946",
+            "D) 2000"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who say fuck you nvidia on camera?",
+        "options":[
+            "A) Jensen Huang",
+            "B) Lewis Hamilton",
+            "C) Max Verstappen",
+            "D) Linus Torvalds"
+        ],
+        "answer": "D"
+    }
+]
