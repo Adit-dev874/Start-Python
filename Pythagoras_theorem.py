@@ -77,7 +77,7 @@ def Calculate():
                 print(step2)
 
                 step3 = step2 ** 0.5  # this will calculate square root 
-                print(f'b = {step3}')
+                print(f'c = {step3}')
             
         except Exception:
             print('Do it correctly')
@@ -86,8 +86,6 @@ def Calculate():
             end_or_no = input("Enter y to end and n to do next question: ").lower()
 
             if end_or_no == 'y':
-                return True
-            else:
-                return False
+                break
 
 Calculate()
