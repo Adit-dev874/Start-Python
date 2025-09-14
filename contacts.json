@@ -1,0 +1,49 @@
+{
+    "contact": [
+        {
+            "name": "Linus torvalds",
+            "number": "1234567890",
+            "email": "linus@xyz.com"
+        },
+        {
+            "name": "Guido van Rossum",
+            "number": "3736647297",
+            "email": "guido@xyz.com"
+        },
+        {
+            "name": "Satoshi Nakamoto",
+            "number": "3859274382",
+            "email": "satoshi@xyz.com"
+        },
+        {
+            "name": "Kathleen Booth",
+            "number": "2846285396",
+            "email": "kathleen@xyz.com"
+        },
+        {
+            "name": "Alan Turing",
+            "number": "8467329475",
+            "email": "alan@xyz.com"
+        },
+        {
+            "name": "Albert einstein",
+            "number": "8374553294",
+            "email": "albert@xyz.com"
+        },
+        {
+            "name": "Isaac newton",
+            "number": "4964190846",
+            "email": "issac@xyz.com"
+        },
+        {
+            "name": "Srinivasa Ramanujan",
+            "number": "6012445207",
+            "email": "srinivasa@xyz.com"
+        },
+        {
+            "name": "Nikola tesla",
+            "number": "9067517954",
+            "email": "nikola@xyz.com"
+        }
+    ]
+}
